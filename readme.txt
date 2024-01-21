@@ -6,5 +6,5 @@
 (5).Reboot and wlan0 will activate
 
 [Reference]
-(1).iwlwifi-gl* unzip from linux-firmware-20240115.tar.gz. They are unofficial version from Ubuntu. Not from Intel
+(1).iwlwifi-gl* unzip from linux-firmware-20240115.tar.gz. They are firmware update from Ubuntu. Not from Intel
 (2).Intel official driver for Linux: https://www.intel.com.tw/content/www/tw/zh/support/articles/000005511/wireless.html
