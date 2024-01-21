@@ -8,4 +8,4 @@
 [Reference]
 (1).Extract iwlwifi-gl* from linux-firmware-20240115.tar.gz. They are firmware update files from Ubuntu. Not from Intel
 (2).Intel official driver for Linux: https://www.intel.com.tw/content/www/tw/zh/support/articles/000005511/wireless.html
-(3).BE200 on Windows 11 can find the ssid of 2.4G, 5G and 6G. However, BE200 in Ubuntu 23.10 find the ssid of 2.4G and 5G. No 6G ssid found
+(3).BE200 on Windows 11 find ssid of 2.4G, 5G and 6G. However, BE200 in Ubuntu 23.10 find ssid of 2.4G and 5G. No 6G ssid found
