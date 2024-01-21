@@ -7,4 +7,4 @@
 
 [Reference]
 (1).iwlwifi-gl* unzip from linux-firmware-20240115.tar.gz. They are unofficial version from Ubuntu. Not from Intel
-(2).Intel official version for Linux Driver: https://www.intel.com.tw/content/www/tw/zh/support/articles/000005511/wireless.html
+(2).Intel official driver for Linux: https://www.intel.com.tw/content/www/tw/zh/support/articles/000005511/wireless.html
